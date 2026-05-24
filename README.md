@@ -32,4 +32,4 @@ This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/pavansu
 
 ## Conclusion
 
-The project successfully addressed key questions related to employee performance and attrition patterns. The findings and insights from the analysis are documented in the results file, which can be accessed here: 
+The project successfully addressed key questions related to employee performance and attrition patterns. The findings and insights from the analysis are documented in the results file, which can be accessed here: https://github.com/maaazkashif/workplace-hr-analytics/blob/main/results.txt
